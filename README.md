@@ -27,21 +27,19 @@ message.
 Installing & uninstalling
 -------------------------
 The easiest way to install is using pip:
-```bash
-pip install edit_distance
-```
+
+    pip install edit_distance
 
 Alternatively you can clone this git repo and install using distutils:
-```bash
-git clone git@github.com:belambert/edit_distance.git
-cd edit_distance
-python setup.py install
-```
+
+    git clone git@github.com:belambert/edit_distance.git
+    cd edit_distance
+    python setup.py install
 
 To uninstall with pip:
-```bash
-pip uninstall edit_distance
-```
+
+    pip uninstall edit_distance
+
 
 API usage
 ---------
